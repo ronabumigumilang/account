@@ -1,0 +1,13 @@
+Here is your key: b3a25249
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=b3a25249
+
+Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=a7c81b7a-3f19-4344-9bce-356b7e8636ad
+If you did not make this request, please disregard this email.
+
+
+akun postman : 
+email : ronabumig@gmail.com
+password : Gumilang2007
